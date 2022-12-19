@@ -1,1 +1,7 @@
-# Advanced-Python
+# Advanced Python Topics
+* Generators
+* Decorators
+* Data Classes
+* Partial Function
+* Magic/Dunder Methods
+* Encapsulation
