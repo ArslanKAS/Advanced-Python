@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import subprocess
 
 # Open the README.md file and add a character
@@ -8,3 +10,4 @@ with open('README.md', 'a') as file:
 subprocess.run(['git', 'add', '.'])
 subprocess.run(['git', 'commit', '-m', 'Added a character to the README.md file'])
 subprocess.run(['git', 'push'])
+print("Success")
