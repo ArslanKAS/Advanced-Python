@@ -5,5 +5,4 @@
 * Partial Function
 * Magic/Dunder Methods
 * Encapsulation
-* Type Hinting
-aa
+* Type Hinting 

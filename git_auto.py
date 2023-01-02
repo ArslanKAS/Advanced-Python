@@ -4,7 +4,7 @@ import subprocess
 
 # Open the README.md file and add a character
 with open('README.md', 'a') as file:
-    file.write('a')
+    file.write(' ')
 
 # Commit and push the changes to the repository
 subprocess.run(['git', 'add', '.'])
