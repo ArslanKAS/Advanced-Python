@@ -7,4 +7,5 @@
 * Encapsulation
 * Type Hinting      -
 * Performance 
+* Strings
        
