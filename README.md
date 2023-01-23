@@ -8,4 +8,5 @@
 * Type Hinting      -
 * Performance 
 * Strings
+* Shrink
        
