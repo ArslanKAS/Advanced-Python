@@ -6,4 +6,7 @@
 * Magic/Dunder Methods
 * Encapsulation
 * Type Hinting      -
+* Performance 
+* Strings
+* Shrink
        
