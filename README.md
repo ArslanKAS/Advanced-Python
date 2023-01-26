@@ -5,8 +5,9 @@
 * Partial Function
 * Magic/Dunder Methods
 * Encapsulation
-* Type Hinting      -
+* Type Hinting
 * Performance 
 * Strings
 * Shrink
+* Word Clouds
        
