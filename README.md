@@ -10,5 +10,6 @@
 * Strings
 * Shrink
 * Word Clouds
+* Collections
        
     
