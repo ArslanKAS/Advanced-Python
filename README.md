@@ -11,5 +11,6 @@
 * Shrink
 * Word Clouds
 * Collections
+* Cython
        
     
