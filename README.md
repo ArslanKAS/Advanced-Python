@@ -8,7 +8,13 @@
 * Type Hinting
 * Performance 
 * Strings
-* Shrink
+* Shrinks
 * Word Clouds
+* Collections
+* Cython
        
+<<<<<<< HEAD
      
+=======
+    
+>>>>>>> e34568297d1c220631a7746573aa24622d8c57b2
