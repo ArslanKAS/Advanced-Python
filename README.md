@@ -12,6 +12,7 @@
 * Word Clouds
 * Collections
 * Cython
+* Logging
        
 <<<<<<< HEAD
      
